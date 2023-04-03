@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ArtBook</string>
+    <string name="art_detail">Charles Ethan Porter, natürmort resim konusunda uzmanlaşmış Amerikalı bir ressamdı. Yüzyılın başında natürmort resim yapan tek Afrikalı Amerikalı sanatçıydı. Özgür bir Afrikalı Amerikalı ailenin çocuğu olarak dünyaya gelen Porter\'ın çizime olan erken ilgisi, annesinin bahçesinden, Connecticut tarlalarından ve ormanlık alanlarından aldığı ilhamla eşleşti. Sanat okuluna gitmek için değişik işlerde çalışarak para biriktirdi.
+    Porter ünlenince meyve ve çiçek resimleri bölge koleksiyoncuları tarafından satın alındı. Mark Twain bile eserini satın almış ve yemek odasına olabildiğince görünür bir şekilde asmıştır; manzara ressamı Frederic Edwin Church stüdyosunu ziyaret etmiş, renk kullanımını övmüş ve bir tablo almıştır.
+
+Porter, iki yılını geçirdiği Paris gezisini finanse edecek kadar başarı elde etmiş, ve daha sonra 1883\'te Connecticut\'a dönmüştür. Bugün sizlere sunduğumuz tablo bu döneme ait bir tablo. Dönüşünden sonraki birkaç yıl boyunca, teknik virtüözlüğü sofistike kompozisyon, titiz gerçekçilik ve zengin renklerle birleştirerek en iyi eserlerinden bazılarını yaratmıştır. Ancak kısa bir süre sonra zevkler değişmeye başlayıp ve İzlenimcilik hakim akım haline geldikten sonra Porter\'ın net, akademik tarzı eski moda görünmeye başlamıştır.
+
+1910 yılından sonraki yıllarda Porter\'ın çalışmaları hızla kötüleşti; bilim adamları, ırkçılığın, yoksulluğun ve hastalığın düşüşünde rol oynadığını düşünüyor. 1923 yılında nefritten hayatını kaybetmiştir.</string>
+    <string name="nisan_2">Nisan 2</string>
+    <string name="art_name">Bir Vazoda Şakayık</string>
+    <string name="writer_name">Charles Ethan Porter</string>
+    <string name="year">1885</string>
+</resources>
